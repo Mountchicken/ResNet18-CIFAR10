@@ -28,8 +28,8 @@ ResNet18 on CIFAR10 reachs 95.09% Accuracy on TestSet
 - `pip install PyQt5-tools`
 - 运行文件`main_gui.py`
 
-## 如何下载模型参数
-- 模型参数过大，无法上传，请联系我的邮箱
+## 权重下载
+[百度云：提取码eh6h](https://pan.baidu.com/s/1VgOpetLpongi74olRT6I5Q)
 
 ## 联系方式
 - mountchicken@outlook.com
